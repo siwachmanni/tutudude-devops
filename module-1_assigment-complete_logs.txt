@@ -1,3 +1,6 @@
+github url : https://github.com/siwachmanni/tutudude-devops.git
+
+
 siwach@Tokyo007:/mnt/c/Users/siwac/Desktop/tutedude$
 
 
